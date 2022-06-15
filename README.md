@@ -1,2 +1,2 @@
 # conference-demo
-# Demo Srping app for learning and experimentation
+# Demo Spring app for learning and experimentation
